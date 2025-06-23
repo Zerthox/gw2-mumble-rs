@@ -77,6 +77,7 @@ pub enum Profession {
     Mesmer = 7,
     Necromancer = 8,
     Revenant = 9,
+    Monster = 10,
 }
 
 /// Character race.
