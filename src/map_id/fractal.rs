@@ -69,3 +69,6 @@ pub const SILENT_SURF: u32 = 1500;
 
 /// Lonely Tower Fractal.
 pub const LONELY_TOWER: u32 = 1538;
+
+/// Kinfall Fractal.
+pub const KINFALL: u32 = 1584;
