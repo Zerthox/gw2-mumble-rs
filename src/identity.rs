@@ -3,7 +3,6 @@
 /// Parsed as JSON from the `identity` field in [`LinkedMem`].
 #[derive(Debug, Clone)]
 #[cfg_attr(feature = "serde", derive(serde::Serialize, serde::Deserialize))]
-
 pub struct Identity {
     /// Character name.
     pub name: String,
