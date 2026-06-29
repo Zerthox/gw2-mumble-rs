@@ -1,12 +1,15 @@
 //! Known map ids.
 
-/// Raids.
+/// Raid Wings & Raid Encounters.
 pub mod raid;
 
 /// Fractals of the Mists.
 pub mod fractal;
 
-/// Strike Missions.
+/// Former Strike Missions.
+///
+/// Renamed to Raid Encounters.
+#[deprecated = "use via raid"]
 pub mod strike;
 
 /// Structured PvP.
