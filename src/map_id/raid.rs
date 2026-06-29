@@ -1,4 +1,4 @@
-pub use self::{core::*, eod::*, hot::*, ibs::*, pof::*, soto::*, voe::*};
+pub use self::{core::*, eod::*, hot::*, ibs::*, jw::*, pof::*, soto::*, voe::*};
 
 /// Lion's Arch Aerodrome (Raid lobby).
 pub const AERODROME: u32 = 1155;
