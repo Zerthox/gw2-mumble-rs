@@ -72,3 +72,6 @@ pub const LONELY_TOWER: u32 = 1538;
 
 /// Kinfall Fractal.
 pub const KINFALL: u32 = 1584;
+
+/// Solitary Throne Fractal.
+pub const SOLITARY_THRONE: u32 = 1636;

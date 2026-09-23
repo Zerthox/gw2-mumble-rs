@@ -100,4 +100,7 @@ pub mod jw {
 pub mod voe {
     /// Guardian's Glade (Kela).
     pub const GUARDIANS_GLADE: u32 = 1609;
+
+    /// Nexus of Eternity (Vloxx).
+    pub const NEXUS_OF_ETERNITY: u32 = 1638;
 }

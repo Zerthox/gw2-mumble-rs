@@ -12,6 +12,9 @@ pub mod fractal;
 #[deprecated = "use via raid"]
 pub mod strike;
 
+/// Convergences.
+pub mod convergence;
+
 /// Structured PvP.
 pub mod pvp;
 

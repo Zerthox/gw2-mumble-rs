@@ -1,6 +1,6 @@
 [package]
 name = "gw2_mumble"
-version = "0.3.1"
+version = "0.3.2"
 edition = "2021"
 authors = ["Zerthox"]
 repository = "https://github.com/zerthox/gw2-mumble-rs"
